@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectionesmat00falugoog_0121.png"; bbox 0 0 2204 3506; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 134 3165 985 3346">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 134 3165 985 3346">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 3165 985 3346; baseline 0.002 -40"><span class='ocrx_word' id='word_1_1' title='bbox 134 3235 207 3306; x_wconf 71' lang='lat'>‘2</span> <span class='ocrx_word' id='word_1_2' title='bbox 222 3203 551 3326; x_wconf 56' lang='lat' dir='ltr'>Adaefflatens</span> <span class='ocrx_word' id='word_1_3' title='bbox 541 3165 639 3334; x_wconf 81' lang='lat' dir='ltr'>AB&#39;,</span> <span class='ocrx_word' id='word_1_4' title='bbox 644 3206 796 3340; x_wconf 77' lang='lat' dir='ltr'>finguhs</span> <span class='ocrx_word' id='word_1_5' title='bbox 808 3187 946 3346; x_wconf 61' lang='grc' dir='ltr'>ἄπει</span> <span class='ocrx_word' id='word_1_6' title='bbox 959 3193 985 3310; x_wconf 62' lang='grc' dir='ltr'><em>ἓ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1106 3506">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1106 3506">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1106 3506; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1106 3506; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 125 3315 976 3440">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 125 3315 976 3440">
+     <span class='ocr_line' id='line_1_3' title="bbox 125 3315 976 3440; baseline 0.007 -34"><span class='ocrx_word' id='word_1_8' title='bbox 125 3315 449 3428; x_wconf 75' lang='lat' dir='ltr'>AS,AT,DK,</span> <span class='ocrx_word' id='word_1_9' title='bbox 469 3329 543 3412; x_wconf 87' lang='lat' dir='ltr'>CI</span> <span class='ocrx_word' id='word_1_10' title='bbox 858 3337 976 3440; x_wconf 74' lang='lat' dir='ltr'>3.Ex</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
